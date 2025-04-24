@@ -1,0 +1,12 @@
+Element wise Result Matrix:
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
+Elapsed Time: 0.0034 seconds
+
+Row wise Result Matrix:
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
+Elapsed Time: 0.0008 seconds
+
